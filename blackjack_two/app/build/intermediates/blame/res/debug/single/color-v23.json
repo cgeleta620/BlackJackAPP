@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/cgeleta/.android/build-cache/c5a9dbecd89bd97b7b3af44ed5c3fa3990dfb428/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/cgeleta/.android/build-cache/c5a9dbecd89bd97b7b3af44ed5c3fa3990dfb428/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/cgeleta/.android/build-cache/25daf9298acbccc94d77631e853f6aa2b715acba/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/cgeleta/.android/build-cache/c5a9dbecd89bd97b7b3af44ed5c3fa3990dfb428/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/cgeleta/.android/build-cache/c5a9dbecd89bd97b7b3af44ed5c3fa3990dfb428/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/cgeleta/.android/build-cache/c5a9dbecd89bd97b7b3af44ed5c3fa3990dfb428/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/cgeleta/.android/build-cache/c5a9dbecd89bd97b7b3af44ed5c3fa3990dfb428/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/cgeleta/.android/build-cache/c5a9dbecd89bd97b7b3af44ed5c3fa3990dfb428/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/cgeleta/.android/build-cache/c5a9dbecd89bd97b7b3af44ed5c3fa3990dfb428/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/cgeleta/.android/build-cache/c5a9dbecd89bd97b7b3af44ed5c3fa3990dfb428/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/cgeleta/.android/build-cache/c5a9dbecd89bd97b7b3af44ed5c3fa3990dfb428/output/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]

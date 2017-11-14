@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

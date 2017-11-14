@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dacc13a40b18cce5a5a387b7c227dc23867d0f71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="070ab0f15c1b930b05f4ee02918c884f9a9c91de">
+        <dex dex="/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a28f180189b7cfc41327f9e681ebc798656ccc4c/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/cgeleta/.android/build-cache/71e417cff3b7096204a12425fb8d6d78c605c7d7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,7 @@
+#Mon Nov 13 22:05:08 EST 2017
+base.0=/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a28f180189b7cfc41327f9e681ebc798656ccc4c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dacc13a40b18cce5a5a387b7c227dc23867d0f71/classes.dex
+base.1=/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dacc13a40b18cce5a5a387b7c227dc23867d0f71
+file.0=/Users/cgeleta/Documents/Loyola/Fall17/CS482_01/blackjack_two/blackjack_two/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a28f180189b7cfc41327f9e681ebc798656ccc4c/classes.dex
