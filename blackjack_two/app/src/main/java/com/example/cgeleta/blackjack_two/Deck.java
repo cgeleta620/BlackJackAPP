@@ -3,14 +3,18 @@ package com.example.cgeleta.blackjack_two;
 import java.util.LinkedList;
 
 /**
- * Created by cgeleta on 11/2/17.
+ * This class represents a Deck fo 52 cards for a blackjack game
+ * @author cgeleta
  */
 public class Deck {
 
-    LinkedList<Card> deckList = new LinkedList<>();
+    LinkedList<Card> deckList = new LinkedList<>(); // the list of cards
 
-    protected int deckSize;
+    protected int deckSize; // size of deck
 
+    /**
+     * This is the constructor of the Deck, creates the deck and populates 52 cards in the decklist
+     */
     public Deck() {
 
         Card hTwo = new Card("Hearts", "Two", 2);
@@ -140,6 +144,10 @@ public class Deck {
 
     }
 
+    /**
+     * Displays the deck as a String
+     * @return
+     */
     public String toString() {
 
         String deck = "";
@@ -152,6 +160,10 @@ public class Deck {
         return deck;
     }
 
+    /**
+     * This is used to take a card from the deck and update the size of the deck.
+     * @param card
+     */
     public void remove(Card card) {
 
         for (int q = 0; q < deckList.size(); q++) {
@@ -166,6 +178,11 @@ public class Deck {
 
     }
 
+    /**
+     * Gets a random card from the deck
+     * @param seed
+     * @return
+     */
     public Card getCard(int seed) {
 
         Card c = deckList.get(seed);
@@ -177,26 +194,35 @@ public class Deck {
     }
 
 
+    /**
+     * The size of the deck
+     * @return
+     */
     public int getDeckSize() {
         return deckList.size();
     }
 
 
+    /**
+     * Gets the value of the card from the value set
+     * @param card
+     * @return
+     */
     public int getCardValue(Card card) {
-        int cardVal = -1000;
+        int cardVal = -1000; // random value for holding int.
 
-        for (int q = 0; q < deckList.size(); q++) {
+        for (int q = 0; q < deckList.size(); q++) { // scans through deck list
 
             if(card.getType().compareTo(deckList.get(q).getType()) == 0 &&
-                    card.getName().compareTo(deckList.get(q).getName()) == 0) {
+                    card.getName().compareTo(deckList.get(q).getName()) == 0) { // finds card
 
-                cardVal = card.getValue();
+                cardVal = card.getValue(); // gets value
 
             }
         }
-        return cardVal;
+        return cardVal; // returns value
 
     }
 
 
-}
+}// end class
