@@ -1,4 +1,5 @@
-package com.example.cgeleta.blackjack_two;
+package com.example.cgeleta.blackjack;
+
 
 import android.app.AlertDialog;
 import android.content.Intent;
@@ -18,7 +19,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private int MAX_CARD_COUNT= 5; // max number of cards a user can have
+    private int MAX_CARD_COUNT = 5; // max number of cards a user can have
 
     private static Deck checkDeck = new Deck(); // replica deck to get card values from
 
@@ -157,6 +158,16 @@ public class MainActivity extends AppCompatActivity {
         stop.setOnClickListener(new View.OnClickListener() {// when stop button is clicked
             @Override
             public void onClick(View v) {
+
+                if(dealer.handTotal > player.handTotal) {
+                    stop.setEnabled(false);
+                    hit.setEnabled(false);// turn off buttons
+                    AlertDialog alertDialog = new AlertDialog.Builder(MainActivity.this).create();
+                    alertDialog.setTitle("Should have kept going");
+                    alertDialog.setMessage("You Lost! Dealer wins");
+                    alertDialog.show();// show you lost
+
+                }
 
                 opponentPlay(); // dealer plays
 
