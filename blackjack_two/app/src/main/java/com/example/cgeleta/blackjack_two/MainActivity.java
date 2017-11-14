@@ -8,15 +8,19 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+/**
+ * This is a class
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     int MAX_CARD_COUNT = 5;
 
     private static Deck checkDeck = new Deck();
 
-    private Deck deck;
+    private Deck deck; // test
     private Player player;
-    private Dealer dealer;
+    private Dealer dealer;//
 
     private Button hit;
     private Button stop;
